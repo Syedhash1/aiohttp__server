@@ -1,0 +1,88 @@
+  407  git add *
+  408  git commit -m "json examples"
+  409  git push origin master 
+  419  git add *
+  420  git commit -m "update last lab"
+  421  git push
+  456  git add +
+  457  git add *
+  458  git commit -m "YAML lab"
+  459  git push
+  485  git add *
+  486  git commit -m "game lab"
+  487  git push 
+  507  git add +
+  508  git add *
+  509  git commit -m "API REST example"
+  510  git push
+  572  git add *
+  573  git commit -m "REST examples"
+  574  git push
+  631  git add *
+  632  git commit -m "NEOWS examples"
+  633  git push 
+  674  git add *
+  675  git commit -m "marvel lab"
+  676  git push
+  698  git add *
+  699  git commit -m "JSON_get_post_validate_lab"
+  700  git push
+  756  git add *
+  757  git commit -m "etcd local database"
+  758  git push 
+  788  git add *
+  789  git commit -m "try except lab"
+  790  git push
+  824  git add *
+  825  git commit -m "argparse lab"
+  826  git push 
+  892  git add *
+  893  git commit -m "timestamp lab"
+  894  git push 
+  969  git add *
+  971  git commit -m "regex lab"
+  972  git push 
+  998  git add *
+  999  git commit -m "advregex lab"
+ 1000  git push 
+ 1030  git add *
+ 1031  git commit -m "advregex lab3"
+ 1032  git push 
+ 1086  git add +
+ 1087  git add *
+ 1088  git aommit -m "panda examples"
+ 1089  git commit -m "panda examples"
+ 1090  git push 
+ 1118  git add *
+ 1119  git commit -m "xml lab"
+ 1120  git push
+ 1183  git add *
+ 1184  git commit -m "Flask lab"
+ 1185  git push
+ 1236  git add *
+ 1237  git commit -m "flask and jinja lab"
+ 1238  git push
+ 1249  git add *
+ 1250  git commit -m "flask cookies lab"
+ 1251  git push 
+ 1280  git clone https://github.com/rzfeeser/api-quest
+ 1290  git clone https://github.com/rzfeeser/api-quest
+ 1294  git checkout stable-1.0
+ 1296  git status
+ 1332  git add *
+ 1333  git commit -m "flask database conn" 
+ 1334  git push
+ 1359  git add *
+ 1360  git commit -m "Flask sqlite lab" 
+ 1361  git push
+ 1370  git init myaiohttpserver
+ 1378  git status 
+ 1382  git config 
+ 1383  git config
+ 1385  git status
+ 1386  cd .git
+ 1391  git add *
+ 1392  git commit -m "aiohttpserver"
+ 1393  git push
+ 1394  vim .git/config
+ 1396  history | grep git > version_commands.txt
